@@ -1,0 +1,21 @@
+{
+  "name": "deskive",
+  "version": "1.0.0",
+  "description": "Development branch of Deskive Application",
+  "main": "core/index.js",
+  "scripts": {
+    "start": "node core/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salooniya/deskive.git"
+  },
+  "author": "Nikhil Salooniya",
+  "bugs": {
+    "url": "https://github.com/salooniya/deskive/issues"
+  },
+  "homepage": "https://github.com/salooniya/deskive#readme",
+  "dependencies": {
+    "core": "file:"
+  }
+}
