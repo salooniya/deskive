@@ -1,2 +1,2 @@
 <h1>Deskive</h1>
-<p>Official Repository of Deskive Application</p>
+<p>Development branch of Deskive Application</p>
